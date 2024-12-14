@@ -1,5 +1,8 @@
 # Ignore GCC and Clang default output files
-a.out
+*.
+*.vscode
+
+test3
 
 # Ignore executables (general rule for files without extensions)
 *.exe
