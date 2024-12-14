@@ -1,0 +1,16 @@
+# Ignore GCC and Clang default output files
+a.out
+
+# Ignore executables (general rule for files without extensions)
+*.exe
+
+# Ignore specific custom output executables (replace "myprogram" with your executable name)
+myprogram
+
+# Ignore object files generated during compilation
+*.o
+*.obj
+
+# macOS-specific system and debug files
+*.dSYM/
+.DS_Store
